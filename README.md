@@ -1,16 +1,21 @@
-## Hi there 👋
+## Lim Sunjong
 
-<!--
-**lsj5657/lsj5657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj5657)](https://solved.ac/lsj5657/)
+[![CodeForces Profile](https://cf.leed.at?id=sunj)](https://codeforces.com/profile/sunj)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- 인하대학교 컴퓨터공학과 (2020.03 - 2026.02)
+- Major GPA: 4.35 / 4.5
+
+---
+
+### 🏆 Awards
+- i-PAC(Inha Programming Ability Contest) 최우수상
+- 탄소중립 Innovation Academy 대상
+- 2024 인하대학교 프로그래밍 경진대회(IUPC) 1위
+- 2023 인하대학교 프로그래밍 경진대회(IUPC) 5위
+
+---
+
